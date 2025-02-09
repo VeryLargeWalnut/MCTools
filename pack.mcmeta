@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": "Tools and methods for making MC commands and datapacks."
+	}
+}
